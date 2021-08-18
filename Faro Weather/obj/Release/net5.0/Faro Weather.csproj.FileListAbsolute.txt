@@ -1,0 +1,64 @@
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\appsettings.Development.json
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\appsettings.json
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\Faro Weather.exe
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\Faro Weather.deps.json
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\Faro Weather.runtimeconfig.json
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\Faro Weather.runtimeconfig.dev.json
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\Faro Weather.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\ref\Faro Weather.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\Faro Weather.pdb
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\Faro Weather.Views.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\Faro Weather.Views.pdb
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\FSharp.Core.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\HtmlAgilityPack.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\ScrapySharp.Core.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\ScrapySharp.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\cs\FSharp.Core.resources.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\de\FSharp.Core.resources.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\en\FSharp.Core.resources.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\es\FSharp.Core.resources.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\fr\FSharp.Core.resources.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\it\FSharp.Core.resources.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\ja\FSharp.Core.resources.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\ko\FSharp.Core.resources.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\pl\FSharp.Core.resources.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\ru\FSharp.Core.resources.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\tr\FSharp.Core.resources.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.AssemblyInfoInputs.cache
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.AssemblyInfo.cs
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.RazorAssemblyInfo.cache
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.RazorAssemblyInfo.cs
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\staticwebassets\Faro Weather.StaticWebAssets.Manifest.cache
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\staticwebassets\Faro Weather.StaticWebAssets.xml
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\scopedcss\bundle\Faro Weather.styles.css
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.TagHelpers.input.cache
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.TagHelpers.output.cache
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.RazorCoreGenerate.cache
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.RazorTargetAssemblyInfo.cache
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.RazorTargetAssemblyInfo.cs
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.Views.pdb
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.csproj.CopyComplete
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\ref\Faro Weather.dll
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.pdb
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.genruntimeconfig.cache
+C:\Users\João\source\repos\Faro Weather\Faro Weather\obj\Release\net5.0\Faro Weather.csprojAssemblyReference.cache

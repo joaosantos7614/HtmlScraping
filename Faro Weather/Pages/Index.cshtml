@@ -1,0 +1,12 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">A temperatura em Faro é de @Model.TempString&deg;C</h1>
+    <br />
+    <p>Nota: Os dados de temperatura são obtidos utilizando HTML scraping.</p>
+    <p>O programa backend inclui um cliente http, framework de scraping ScrapySharp, e filtragem tipo Regex.</p>
+</div>
