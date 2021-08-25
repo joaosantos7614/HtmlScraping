@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Faro Weather", "Faro Weather\Faro Weather.csproj", "{B524F69F-3AB2-4669-A212-0735EF99973A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaroTemperature", "FaroTemperature\FaroTemperature.csproj", "{03121151-DCC0-425B-A865-C6D530BAC00D}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B524F69F-3AB2-4669-A212-0735EF99973A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B524F69F-3AB2-4669-A212-0735EF99973A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B524F69F-3AB2-4669-A212-0735EF99973A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B524F69F-3AB2-4669-A212-0735EF99973A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{03121151-DCC0-425B-A865-C6D530BAC00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{03121151-DCC0-425B-A865-C6D530BAC00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03121151-DCC0-425B-A865-C6D530BAC00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
