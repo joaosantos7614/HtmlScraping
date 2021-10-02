@@ -31,11 +31,14 @@ namespace FaroTemperature.Controllers
         public IActionResult Index()
         {
             TemperatureModel temperature = new();
-            string urlToScrape = "http://centronautico.cm-faro.pt/";
+            //string urlToScrape = "http://centronautico.cm-faro.pt/";
+            string urlToScrape = "https://www.aviationweather.gov/metar/data?ids=lppt&format=raw&hours=0&taf=off&layout=off";
             HtmlNode scrapedHtml = GetHtml(urlToScrape);
             string innerHtml = scrapedHtml.InnerHtml;
-            Match match = Regex.Match(innerHtml, "<td class=\"category\">Air<\\/td>\\s*<td class=\"ws[0-9]*\">([0-9]+)", RegexOptions.IgnoreCase | RegexOptions.Multiline);
+            //Match match = Regex.Match(innerHtml, "<td class=\"category\">Air<\\/td>\\s*<td class=\"ws[0-9]*\">([0-9]+)", RegexOptions.IgnoreCase | RegexOptions.Multiline);
+            Match match = Regex.Match(innerHtml, @"<code>LPPT\s\S*\s\S*\s\S*\s\S*\s(\S*)\/", RegexOptions.IgnoreCase | RegexOptions.Multiline);
             temperature.TempString = match.Groups[1].ToString();
+            temperature.ScrapingDate = DateTime.Now;
             return View(temperature);
         }
 

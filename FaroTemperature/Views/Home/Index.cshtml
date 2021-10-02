@@ -5,9 +5,11 @@
 }
 
 <div class="text-center">
-    <img class="img-fluid rounded" src="~/img/logo.png" />
-    <h1 class="display-4">The current temperature in Faro is @Model.TempString&deg;C</h1>
-    <p>Note: temperature reading was obtained using HTML scraping on @DateTime.Now (local time)</p>
+    <img class="img-fluid rounded" src="~/img/logoLis.png" />
+    <hr />
+    <h1 class="display-4">The current temperature in Lisbon is @Model.TempString&deg;C</h1>
+    <hr />
+    <p>The temperature reading was obtained using HTML scraping on @Model.ScrapingDate (local time)</p>
     
      
 </div>
