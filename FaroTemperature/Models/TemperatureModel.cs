@@ -8,5 +8,6 @@ namespace FaroTemperature.Models
     public class TemperatureModel
     {
         public string TempString { get; set; }
+        public DateTime ScrapingDate { get; set; }
     }
 }
