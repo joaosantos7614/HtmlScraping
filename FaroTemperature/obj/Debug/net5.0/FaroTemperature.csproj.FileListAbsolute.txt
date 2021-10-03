@@ -60,3 +60,4 @@ C:\Users\João\source\repos\Faro Weather\FaroTemperature\obj\Debug\net5.0\ref\Fa
 C:\Users\João\source\repos\Faro Weather\FaroTemperature\obj\Debug\net5.0\FaroTemperature.pdb
 C:\Users\João\source\repos\Faro Weather\FaroTemperature\obj\Debug\net5.0\FaroTemperature.genruntimeconfig.cache
 C:\Users\João\source\repos\Faro Weather\FaroTemperature\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\João\source\repos\Faro Weather\FaroTemperature\obj\Debug\net5.0\FaroTemperature.csprojAssemblyReference.cache

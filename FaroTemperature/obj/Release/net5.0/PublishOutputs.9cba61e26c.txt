@@ -1,6 +1,7 @@
 C:\Users\João\source\repos\Faro Weather\FaroTemperature\obj\Release\net5.0\PubTmp\Out\FaroTemperature.exe
 C:\Users\João\source\repos\Faro Weather\FaroTemperature\obj\Release\net5.0\PubTmp\Out\wwwroot\css\site.css
 C:\Users\João\source\repos\Faro Weather\FaroTemperature\obj\Release\net5.0\PubTmp\Out\wwwroot\favicon.ico
+C:\Users\João\source\repos\Faro Weather\FaroTemperature\obj\Release\net5.0\PubTmp\Out\wwwroot\img\logo.png
 C:\Users\João\source\repos\Faro Weather\FaroTemperature\obj\Release\net5.0\PubTmp\Out\wwwroot\img\logoLis.png
 C:\Users\João\source\repos\Faro Weather\FaroTemperature\obj\Release\net5.0\PubTmp\Out\wwwroot\js\site.js
 C:\Users\João\source\repos\Faro Weather\FaroTemperature\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
